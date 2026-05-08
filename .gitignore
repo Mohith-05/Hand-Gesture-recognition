@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.h5
+*.npy
+*.png
+venv/
+snapshots/
+dataset/
+.DS_Store
+.vscode/
