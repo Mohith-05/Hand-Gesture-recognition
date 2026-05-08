@@ -1,7 +1,7 @@
 # Hand Gesture Recognition — Mac Setup Guide
 **For Hearing Impaired and Aphonic People using CNN**
 
-Guide: Mrs S. Deepa | Team: B. Srirekha · S.P. Shanthinii · S. Sruthi | Final Year CSE-C
+ Team: Mohith V, Vibish M, Sree Kumaran | Second Year CSE-F
 
 ---
 
